@@ -290,7 +290,7 @@ return(
           </TouchableOpacity>
             <Text style = {[{textAlign: 'center', padding: 10, fontWeight: 'bold', fontSize:30}]}> + {clickPer} clicks/sec</Text>
             <Text style = {[{textAlign: 'center', fontWeight: 'bold', fontSize:20}]}>Click Boosts:</Text>
-            <Text style = {[{textAlign: 'center'}]}>click boosts are non-refundables(M indicates millions):</Text>
+            <Text style = {[{textAlign: 'center'}]}>click boosts are non-refundable(M indicates millions):</Text>
        
        </View>
 
